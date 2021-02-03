@@ -14,13 +14,10 @@ class AboutUs extends Component{
                     Landing Page.
                     </p>
 
-                    <button onClick ={()=>this.props.history.push(`/portal`)}>
-                        portal
-                    </button>
+                    
+                    <a href="/portal">portal</a>
 
-                    <button onClick ={()=>this.props.history.push(`/blog`)}>
-                        Blog
-                    </button>
+                
                 </header>
             </div>
         )
