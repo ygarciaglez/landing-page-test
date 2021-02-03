@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import {Switch, Route, Redirect } from 'react-router-dom';
+
 
 
 class AboutUs extends Component{
@@ -17,7 +17,7 @@ class AboutUs extends Component{
                     <button onClick ={()=>this.props.history.push(`/portal`)}>
                         portal
                     </button>
-                    
+
                     <button onClick ={()=>this.props.history.push(`/blog`)}>
                         Blog
                     </button>
