@@ -1,5 +1,5 @@
 import './App.css';
-import {Switch, Route, Redirect } from 'react-router-dom';
+import {Switch, Route } from 'react-router-dom';
 import AboutUs from './layers/AboutUs'
 
 function App() {
