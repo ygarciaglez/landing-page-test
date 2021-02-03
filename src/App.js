@@ -12,7 +12,7 @@ function App() {
                     
                     <a href="/portal">portal</a>
 
-                    <p>comming soon: blog</p>
+                    <a href="/blog">blog</a>
 
                 
                 </header>
