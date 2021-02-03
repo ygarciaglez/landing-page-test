@@ -1,9 +1,5 @@
-/portal/*  https://hardcore-austin-151a0c.netlify.app/:splat  200
-/static/portal/*  https://hardcore-austin-151a0c.netlify.app/static/:splat  200
-/portal/static/*  https://hardcore-austin-151a0c.netlify.app/static/:splat  200
-/portal/service-worker.js  https://hardcore-austin-151a0c.netlify.app/service-worker.js  200
+/portal/*  https://hardcore-austin-151a0c.netlify.app/static/:splat  200
+/service-worker.js  https://hardcore-austin-151a0c.netlify.app/service-worker.js  200
 
-/blog/*  https://dazzling-clarke-3d669b.netlify.app/:splat  200
-/static/blog/*  https://dazzling-clarke-3d669b.netlify.app/static/:splat  200
-/blog/static/*  https://dazzling-clarke-3d669b.netlify.app/static/:splat  200
-/blog/service-worker.js  https://dazzling-clarke-3d669b.netlify.app/service-worker.js  200
+/blog/*  https://dazzling-clarke-3d669b.netlify.app/static/:splat  200
+/service-worker.js  https://dazzling-clarke-3d669b.netlify.app/service-worker.js  200
