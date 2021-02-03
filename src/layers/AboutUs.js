@@ -17,6 +17,8 @@ class AboutUs extends Component{
                     
                     <a href="/portal">portal</a>
 
+                    <p>comming soon: blog</p>
+
                 
                 </header>
             </div>
