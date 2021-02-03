@@ -1,2 +1,4 @@
 /static/*  https://hardcore-austin-151a0c.netlify.app/static/:splat  200
+/service-worker.js  https://hardcore-austin-151a0c.netlify.app/service-worker.js  200
+
 
