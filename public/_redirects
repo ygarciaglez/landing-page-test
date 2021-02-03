@@ -1,4 +1,3 @@
-/portal/*  https://hardcore-austin-151a0c.netlify.app/:splat  200
+https://jolly-dijkstra-c6d5bd.netlify.app/portal/*  https://hardcore-austin-151a0c.netlify.app/:splat  200
 
-/blog/*  https://dazzling-clarke-3d669b.netlify.app/static/:splat  200
-/service-worker.js  https://dazzling-clarke-3d669b.netlify.app/service-worker.js  200
+https://jolly-dijkstra-c6d5bd.netlify.app/blog/*  https://dazzling-clarke-3d669b.netlify.app/:splat  200
