@@ -1,6 +1,6 @@
 /portal/*  https://hardcore-austin-151a0c.netlify.app/:splat  200
 /blog/*  https://dazzling-clarke-3d669b.netlify.app/:splat  200
-/static/*  /static/:splat  200
+/static/*  /static/:splat  404
 /service-worker.js  https://hardcore-austin-151a0c.netlify.app/service-worker.js  200
 
 
